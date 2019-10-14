@@ -1,9 +1,7 @@
-
-
-header.1 {
-  font-style: italic;
-  color: blue;
+header {
   font-size: 21px;
+  color: blue;
+  font-style: italic;
 }
 
 p {
